@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Robotics Arm Control System",
+        "description": "Developed a control system for a robotic arm using Arduino and ROS for precise movements.",
+        "githubLink": "https://github.com/sinxengineering/robotics-arm-control"
+    },
+    {
+        "name": "IoT Smart Home System",
+        "description": "Built an IoT smart home system with sensors, actuators, and a mobile app for remote monitoring and control.",
+        "githubLink": "https://github.com/sinxengineering/iot-smart-home"
+    },
+    {
+        "name": "Autonomous Drone Navigation",
+        "description": "Implemented autonomous navigation for drones using computer vision and path planning algorithms.",
+        "githubLink": "https://github.com/sinxengineering/autonomous-drone-navigation"
+    },
+    {
+        "name": "Industrial IoT Monitoring Solution",
+        "description": "Designed and deployed an industrial IoT monitoring solution for real-time data collection and analysis.",
+        "githubLink": "https://github.com/sinxengineering/industrial-iot-monitoring"
+    },
+    {
+        "name": "3D Printing Automation",
+        "description": "Developed software and hardware automation for a 3D printing process to optimize production efficiency.",
+        "githubLink": "https://github.com/sinxengineering/3d-printing-automation"
+    },
+    {
+        "name": "Machine Learning for Predictive Maintenance",
+        "description": "Implemented machine learning models to predict equipment failures in manufacturing environments.",
+        "githubLink": "https://github.com/sinxengineering/predictive-maintenance-ml"
+    },
+    {
+        "name": "Augmented Reality Maintenance Guide",
+        "description": "Created an augmented reality guide for equipment maintenance to improve technician efficiency.",
+        "githubLink": "https://github.com/sinxengineering/ar-maintenance-guide"
+    },
+    {
+        "name": "Energy Monitoring and Optimization",
+        "description": "Developed a system for monitoring energy consumption and optimizing usage based on real-time data.",
+        "githubLink": "https://github.com/sinxengineering/energy-monitoring-optimization"
+    },
+    {
+        "name": "Blockchain-based Supply Chain Tracking",
+        "description": "Implemented blockchain technology to track and verify the supply chain process for transparency and security.",
+        "githubLink": "https://github.com/sinxengineering/blockchain-supply-chain"
+    },
+    {
+        "name": "Virtual Reality Training Simulations",
+        "description": "Created virtual reality simulations for training purposes to enhance learning outcomes in complex scenarios.",
+        "githubLink": "https://github.com/sinxengineering/vr-training-simulations"
+    },
+    // Add more projects here...
+]
